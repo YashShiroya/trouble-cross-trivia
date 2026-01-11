@@ -1,6 +1,6 @@
 # TROUBLE CROSS: HOST OS v2.18
 
-A real-time multiplayer trivia game with betrayal mechanics. Built with React, TypeScript, and powered by Google Gemini AI.
+A real-time multiplayer trivia game with betrayal mechanics. Built with React, TypeScript, and powered by Gemini API.
 
 ## 🎮 Game Overview
 
