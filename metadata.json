@@ -1,0 +1,8 @@
+
+{
+  "name": "Trouble Cross: HOST OS v2.18",
+  "description": "A high-stakes team trivia game with a defection mechanic, powered by Gemini and Peer-to-Peer networking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
