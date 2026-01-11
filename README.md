@@ -97,7 +97,7 @@ trouble-cross/
 - Server-side validation for all actions
 - No direct state manipulation by clients
 
-## 📋 Game Mechanics (Compliant with TURNCOAT v2.18)
+## 📋 Game Mechanics (Compliant with TROUBLE CROSS v2.18)
 
 - ✅ Random token reveal timing (Rounds 1-4)
 - ✅ Standoff only triggers if both tokens held after Round 4
